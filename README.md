@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👩‍💻 Shellafuri Biru Mardika - Quality Assurance Enthusiast
 
-<!--
-**shellafuribiru/shellafuribiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! Welcome to my GitHub portfolio. I'm a passionate **Quality Assurance** with a strong focus on ensuring the quality and reliability of software applications. My experience spans across **manual testing**, **test automation**, and **API testing**. Here, you'll find projects that highlight my skills and contributions in the field of QA.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 **About Me**
+- 📍 Based in Tangerang
+- 🎓 Background in S1 Compyter Sience
+- 🛠️ Proficient in:
+  - **Testing Methods**: Manual Testing (Blackbox, Smoke, Regression), Automation Testing (Apps, Web, API)
+  - **Tools & Technologies**: Cucumber, CI/CD(Jenkins, Gitlab CI/CD), Test Case Management (Jira, Xray, Spreadsheet) , Confluence, Git, Database Management (Dbeaver), Software testing   tools (Postman, Charles, Mokku, Flipper), Cloud device farm (Browserstack & Lambda)
+  - **Programming Languages**: Java, Ruby, Typescript, Javascript
+  - **Framework**: Selenium, Playwright
+  - **Documentation**: Test Plans, Bug Tracking & Management, QA Sign-Off Reports, UAT documentation
+- 🎯 Specialized in:
+  - Automated testing for web and mobile applications
+  - Creating comprehensive test plans and cases
+  - Collaborating with cross-functional teams to ensure high-quality software delivery
