@@ -20,4 +20,4 @@ Hi! Welcome to my GitHub portfolio. I'm a passionate **Quality Assurance** with 
  
 
 ## 📬 **Let's Connect!**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shellafuribiru)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/shellafuribiru)
