@@ -10,7 +10,7 @@ Hi! Welcome to my GitHub portfolio. I'm a passionate **Quality Assurance** with 
 - 🛠️ Proficient in:
   - **Testing Methods**: Manual Testing (Blackbox, Smoke, Regression), Automation Testing (Apps, Web, API)
   - **Tools & Technologies**: Cucumber, CI/CD(Jenkins, Gitlab CI/CD), Test Case Management (Jira, Xray, Spreadsheet) , Confluence, Git, Database Management (Dbeaver), Software testing   tools (Postman, Charles, Mokku, Flipper), Cloud device farm (Browserstack & Lambda)
-  - **Programming Languages**: Java, Ruby, Typescript, Javascript
+  - **Programming Languages**: Ruby, Typescript, Javascript
   - **Framework**: Selenium, Playwright
   - **Documentation**: Test Plans, Bug Tracking & Management, QA Sign-Off Reports, UAT documentation
 - 🎯 Specialized in:
